@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>comment</key>
-	<string>http://chriskempson.com</string>
+	<string>http://wexpert.ru</string>
 	<key>name</key>
-	<string>Tomorrow Night - Eighties</string>
+	<string>WebExPert</string>
 	<key>settings</key>
 	<array><dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_CC99CCFF</string><key>settings</key><dict><key>background</key><string>#CC99CCFF</string><key>caret</key><string>#000000FF</string><key>foreground</key><string>#000000FF</string></dict></dict>
 <dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_CDCDCDFF</string><key>settings</key><dict><key>background</key><string>#CDCDCDFF</string><key>caret</key><string>#000000FF</string><key>foreground</key><string>#000000FF</string></dict></dict>
@@ -209,7 +209,7 @@
 			<string>string, constant.other.symbol, entity.other.inherited-class, markup.heading</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
+				<key>fontStyle</key> 
 				<string></string>
 				<key>foreground</key>
 				<string>#84C2FF</string>
@@ -356,6 +356,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>DE477E5B-BD4D-46B0-BF80-2EA32A2814D5</string>
+	<string>5ee44a11-1876-498f-9190-372117ad513c</string>
 </dict>
 </plist>
