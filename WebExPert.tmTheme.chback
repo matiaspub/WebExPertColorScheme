@@ -73,17 +73,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>PHP: Other Property</string>
-			<key>scope</key>
-			<string>variable.other.property.php</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#AFFCC8</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Number, Constant, Function Argument, Tag Attribute, Embedded</string>
 			<key>scope</key>
 			<string>constant.numeric, constant.language, support.constant, entity.other.attribute-name, constant.character, variable.parameter, punctuation.section.embedded, keyword.other.unit</string>
@@ -142,7 +131,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FACC7A</string>
+				<string>#66CCCC</string>
 			</dict>
 		</dict>
 		<dict>
