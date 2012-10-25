@@ -340,10 +340,31 @@
 			</dict>
 		</dict>
 		
-		
 		<dict>
 			<key>name</key>
-			<string>String Link, Tag Name</string>
+			<string>JS: all</string>
+			<key>scope</key>
+			<string>source.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ACFFAE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS: brackets</string>
+			<key>scope</key>
+			<string>punctuation.definition.parameters.begin.js, punctuation.definition.parameters.end.js, meta.brace.round.js, meta.brace.curly.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C6BEA8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS: delimiter.period</string>
 			<key>scope</key>
 			<string>meta.delimiter.method.period.js</string>
 			<key>settings</key>
@@ -354,7 +375,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>String Link, Tag Name</string>
+			<string>JS: delimiter.comma</string>
 			<key>scope</key>
 			<string>meta.delimiter.object.comma.js</string>
 			<key>settings</key>
@@ -365,7 +386,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>String Link, Tag Name</string>
+			<string>JS: brace.square</string>
 			<key>scope</key>
 			<string>meta.brace.square.js</string>
 			<key>settings</key>
@@ -376,9 +397,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>String Link, Tag Name</string>
+			<string>JS-jQuery: selector</string>
 			<key>scope</key>
-			<string>variable.language.j, meta.selector.jquery</string>
+			<string>variable.language.js, meta.selector.jquery</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -387,7 +408,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>String Link, Tag Name</string>
+			<string>JS-jQuery: support.function</string>
 			<key>scope</key>
 			<string>support.function.js.jquery</string>
 			<key>settings</key>
@@ -602,7 +623,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#E1660B</string>
+				<string>#EA2020</string>
 			</dict>
 		</dict>
 		
