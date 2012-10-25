@@ -99,15 +99,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Number, Constant, Function Argument, Tag Attribute, Embedded</string>
+			<string>Number, Constant, Function Argument, Embedded</string>
 			<key>scope</key>
-			<string>constant.numeric, constant.language, support.constant, entity.other.attribute-name, constant.character, punctuation.section.embedded, keyword.other.unit</string>
+			<string>constant.numeric, constant.language, support.constant, constant.character, punctuation.section.embedded, keyword.other.unit</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#F99157</string>
+				<string>#ECAB84</string>
 			</dict>
 		</dict>
 		
@@ -126,9 +126,20 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>PHP line in html</string>
+			<key>scope</key>
+			<string>source.php.embedded.line.html</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#343434</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Regular Expressions</string>
 			<key>scope</key>
-			<string>string.regexp</string>
+			<string>string.regexp, string.regexp.single-quoted.php, string.regexp.double-quoted.php</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -139,9 +150,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Regular Expressions: character-class</string>
+			<key>scope</key>
+			<string>string.regexp.character-class.php</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#B99DF2</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Regular Expressions: arbitrary-repitition</string>
+			<key>scope</key>
+			<string>string.regexp.arbitrary-repitition.php</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#5050B8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Class, Support</string>
 			<key>scope</key>
-			<string>entity.name.class, entity.name.type.class, support.type, support.class</string>
+			<string>entity.name.class, entity.name.type.class, support.type, support.class, entity.name</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -288,7 +325,7 @@
 				<key>background</key>
 				<string>#4271ae</string>
 			</dict>
-		</dict>		
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>Diff range</string>
@@ -302,6 +339,65 @@
 				<string>#3e999f</string>
 			</dict>
 		</dict>
+		
+		
+		<dict>
+			<key>name</key>
+			<string>String Link, Tag Name</string>
+			<key>scope</key>
+			<string>meta.delimiter.method.period.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#838383</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String Link, Tag Name</string>
+			<key>scope</key>
+			<string>meta.delimiter.object.comma.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFA8AA</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String Link, Tag Name</string>
+			<key>scope</key>
+			<string>meta.brace.square.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#61A375</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String Link, Tag Name</string>
+			<key>scope</key>
+			<string>variable.language.j, meta.selector.jquery</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#D3A469</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String Link, Tag Name</string>
+			<key>scope</key>
+			<string>support.function.js.jquery</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ACA362</string>
+			</dict>
+		</dict>
+		
+		
 		<dict>
 			<key>name</key>
 			<string>HTML: DocType</string>
@@ -313,7 +409,39 @@
 				<string>#827A96</string>
 			</dict>
 		</dict>
-		
+		<dict>
+			<key>name</key>
+			<string>HTML attribute name</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#BD5759</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HTML attribute value</string>
+			<key>scope</key>
+			<string>string.quoted.double.html, string.quoted.single.html</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#DFCFB7</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HTML attribute value quotes</string>
+			<key>scope</key>
+			<string>punctuation.definition.string.begin.html, punctuation.definition.string.end.html</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A86C6D</string>
+			</dict>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>HTML: Script</string>
@@ -324,7 +452,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#F59C9E</string>
+				<string>#BDF318</string>
 			</dict>
 		</dict>
 		<dict>
@@ -435,7 +563,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF2D2D</string> 
+				<string>#F2777A</string> 
 			</dict>
 		</dict>
 		<dict>
@@ -448,14 +576,14 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FF6464</string>
+				<string>#FF4A4A</string>
 			</dict> 
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>CSS :pseudo</string>
 			<key>scope</key>
-			<string>entity.other.attribute-name.pseudo-element.css, entity.other.attribute-name.pseudo-class.css</string>
+			<string>entity.other.attribute-name.pseudo-class.css, entity.other.attribute-name.pseudo-element.css, entity.other.attribute-name.pseudo-class.css</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -474,7 +602,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FF4646</string>
+				<string>#E1660B</string>
 			</dict>
 		</dict>
 		
