@@ -7,29 +7,7 @@
 	<key>name</key>
 	<string>WebExPert</string>
 	<key>settings</key>
-	<array><dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_BD5759FF</string><key>settings</key><dict><key>background</key><string>#BD5759FF</string><key>caret</key><string>#FFFFFFFF</string><key>foreground</key><string>#FFFFFFFF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_ED8F27FF</string><key>settings</key><dict><key>background</key><string>#ED8F27FF</string><key>caret</key><string>#000000FF</string><key>foreground</key><string>#000000FF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_AEF123FF</string><key>settings</key><dict><key>background</key><string>#AEF123FF</string><key>caret</key><string>#000000FF</string><key>foreground</key><string>#000000FF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_E9F321FF</string><key>settings</key><dict><key>background</key><string>#E9F321FF</string><key>caret</key><string>#000000FF</string><key>foreground</key><string>#000000FF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_A8ED27FF</string><key>settings</key><dict><key>background</key><string>#A8ED27FF</string><key>caret</key><string>#000000FF</string><key>foreground</key><string>#000000FF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_21F3AFFF</string><key>settings</key><dict><key>background</key><string>#21F3AFFF</string><key>caret</key><string>#000000FF</string><key>foreground</key><string>#000000FF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_54C08FFF</string><key>settings</key><dict><key>background</key><string>#54C08FFF</string><key>caret</key><string>#000000FF</string><key>foreground</key><string>#000000FF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_328761FF</string><key>settings</key><dict><key>background</key><string>#328761FF</string><key>caret</key><string>#FFFFFFFF</string><key>foreground</key><string>#FFFFFFFF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_369469FF</string><key>settings</key><dict><key>background</key><string>#369469FF</string><key>caret</key><string>#FFFFFFFF</string><key>foreground</key><string>#FFFFFFFF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_BDF318FF</string><key>settings</key><dict><key>background</key><string>#BDF318FF</string><key>caret</key><string>#000000FF</string><key>foreground</key><string>#000000FF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_CF3060FF</string><key>settings</key><dict><key>background</key><string>#CF3060FF</string><key>caret</key><string>#FFFFFFFF</string><key>foreground</key><string>#FFFFFFFF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_DCF87EFF</string><key>settings</key><dict><key>background</key><string>#DCF87EFF</string><key>caret</key><string>#000000FF</string><key>foreground</key><string>#000000FF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_ECAB84FF</string><key>settings</key><dict><key>background</key><string>#ECAB84FF</string><key>caret</key><string>#000000FF</string><key>foreground</key><string>#000000FF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_FF3E3EFF</string><key>settings</key><dict><key>background</key><string>#FF3E3EFF</string><key>caret</key><string>#FFFFFFFF</string><key>foreground</key><string>#FFFFFFFF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_343434FF</string><key>settings</key><dict><key>background</key><string>#343434FF</string><key>caret</key><string>#FFFFFFFF</string><key>foreground</key><string>#FFFFFFFF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_8080FFFF</string><key>settings</key><dict><key>background</key><string>#8080FFFF</string><key>caret</key><string>#000000FF</string><key>foreground</key><string>#000000FF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_D13CDDFF</string><key>settings</key><dict><key>background</key><string>#D13CDDFF</string><key>caret</key><string>#FFFFFFFF</string><key>foreground</key><string>#FFFFFFFF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_000000FF</string><key>settings</key><dict><key>background</key><string>#000000FF</string><key>caret</key><string>#FFFFFFFF</string><key>foreground</key><string>#FFFFFFFF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_999999FF</string><key>settings</key><dict><key>background</key><string>#999999FF</string><key>caret</key><string>#000000FF</string><key>foreground</key><string>#000000FF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_CCCCCCFF</string><key>settings</key><dict><key>background</key><string>#CCCCCCFF</string><key>caret</key><string>#000000FF</string><key>foreground</key><string>#000000FF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_E96CECFF</string><key>settings</key><dict><key>background</key><string>#E96CECFF</string><key>caret</key><string>#000000FF</string><key>foreground</key><string>#000000FF</string></dict></dict>
-<dict><key>name</key><string>mon_color</string><key>scope</key><string>mcol_6BEDB3FF</string><key>settings</key><dict><key>background</key><string>#6BEDB3FF</string><key>caret</key><string>#000000FF</string><key>foreground</key><string>#000000FF</string></dict></dict>
-
+	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
@@ -362,31 +340,10 @@
 			</dict>
 		</dict>
 		
+		
 		<dict>
 			<key>name</key>
-			<string>JS: all</string>
-			<key>scope</key>
-			<string>source.js</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#ACFFAE</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>JS: brackets</string>
-			<key>scope</key>
-			<string>punctuation.definition.parameters.begin.js, punctuation.definition.parameters.end.js, meta.brace.round.js, meta.brace.curly.js</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#C6BEA8</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>JS: delimiter.period</string>
+			<string>String Link, Tag Name</string>
 			<key>scope</key>
 			<string>meta.delimiter.method.period.js</string>
 			<key>settings</key>
@@ -397,7 +354,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>JS: delimiter.comma</string>
+			<string>String Link, Tag Name</string>
 			<key>scope</key>
 			<string>meta.delimiter.object.comma.js</string>
 			<key>settings</key>
@@ -408,7 +365,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>JS: brace.square</string>
+			<string>String Link, Tag Name</string>
 			<key>scope</key>
 			<string>meta.brace.square.js</string>
 			<key>settings</key>
@@ -419,9 +376,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>JS-jQuery: selector</string>
+			<string>String Link, Tag Name</string>
 			<key>scope</key>
-			<string>variable.language.js, meta.selector.jquery</string>
+			<string>variable.language.j, meta.selector.jquery</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -430,7 +387,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>JS-jQuery: support.function</string>
+			<string>String Link, Tag Name</string>
 			<key>scope</key>
 			<string>support.function.js.jquery</string>
 			<key>settings</key>
@@ -645,7 +602,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#EA2020</string>
+				<string>#E1660B</string>
 			</dict>
 		</dict>
 		
