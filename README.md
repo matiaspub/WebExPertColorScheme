@@ -7,4 +7,4 @@
 - finality PHP, HTML, CSS
 - Markdown
 
-```C:\Users\[SERGIUS]\AppData\Roaming\Sublime Text 2\Packages\Theme - WebExPert``` 
+```C:\Users\[SERGIUS]\AppData\Roaming\Sublime Text 2\Packages\Theme - WebExPert```
