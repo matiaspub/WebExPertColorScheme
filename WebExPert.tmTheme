@@ -97,6 +97,56 @@
 				<string>#DCF87E</string>
 			</dict>
 		</dict>
+		
+		
+		
+		<dict>
+			<key>name</key>
+			<string>SQL: Create Keyword</string>
+			<key>scope</key>
+			<string>keyword.other.create.sql</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F2C984</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SQL: Type</string>
+			<key>scope</key>
+			<string>storage.type.sql</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#BFA577</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SQL: Modifier</string>
+			<key>scope</key>
+			<string>storage.modifier.sql</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#B86741</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SQL: Modifiers</string>
+			<key>scope</key>
+			<string>constant.other.database-name.sql</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E11717</string>
+			</dict>
+		</dict>
+		
+		
+		
 		<dict>
 			<key>name</key>
 			<string>Number, Constant, Function Argument, Embedded</string>
