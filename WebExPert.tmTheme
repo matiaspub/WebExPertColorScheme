@@ -146,6 +146,84 @@
 		</dict>
 		
 		
+		<dict>
+			<key>name</key>
+			<string>Markdown: ListNumbered</string>
+			<key>scope</key>
+			<string>markup.list.numbered.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#14BBE4</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown: ListUnnumbered</string>
+			<key>scope</key>
+			<string>markup.list.unnumbered.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#547ED8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown: Bold</string>
+			<key>scope</key>
+			<string>markup.bold.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown: Italic</string>
+			<key>scope</key>
+			<string>markup.italic.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown: italic, Bold wrappers</string>
+			<key>scope</key>
+			<string>punctuation.definition.italic.markdown, punctuation.definition.bold.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6B72A0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown: RawCodeMarks</string>
+			<key>scope</key>
+			<string>punctuation.definition.raw.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFFFFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown: RawCode</string>
+			<key>scope</key>
+			<string>markup.raw.inline.markdown, markup.raw.block.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E12BA6</string>
+			</dict>
+		</dict>
+		
 		
 		<dict>
 			<key>name</key>
