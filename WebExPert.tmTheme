@@ -154,7 +154,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#14BBE4</string>
+				<string>#509BA9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -165,7 +165,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#547ED8</string>
+				<string>#7D9BAE</string>
 			</dict>
 		</dict>
 		<dict>
@@ -221,6 +221,83 @@
 			<dict>
 				<key>foreground</key>
 				<string>#E12BA6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown: Block</string>
+			<key>scope</key>
+			<string>meta.block-level.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FDFFCC</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown: BlockQuote</string>
+			<key>scope</key>
+			<string>punctuation.definition.blockquote.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F09D59</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown: BlockQuote</string>
+			<key>scope</key>
+			<string>punctuation.definition.link.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6789E2</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown: BlockQuote</string>
+			<key>scope</key>
+			<string>string.other.link.description.markdown, string.other.link.title.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#BDE77E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown: BlockQuote</string>
+			<key>scope</key>
+			<string>markup.underline.link.image.markdown, meta.link.inline.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#308F1F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown: BlockQuote</string>
+			<key>scope</key>
+			<string>string.other.link.description.title.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#7AB048</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown: BlockQuote</string>
+			<key>scope</key>
+			<string>constant.other.reference.link.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#77884A</string>
 			</dict>
 		</dict>
 		
@@ -388,7 +465,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#99CCCC</string>
+				<string>#313131</string>
 				<key>foreground</key>
 				<string>#CDCDCD</string>
 			</dict>

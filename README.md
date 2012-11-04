@@ -3,11 +3,12 @@
 ### Screenshots
 ![WebExPert Screenshot](http://clip2net.com/clip/m31506/1351762342-clip-132kb.png)
 
-### ToFuture
+### Supported syntax
 
+- PHP
 - SQL
-- finality JS
-- finality PHP, HTML, CSS
+- HTML
+- CSS
+- JavaScript + jQuery
 - Markdown
 
-```C:\Users\[SERGIUS]\AppData\Roaming\Sublime Text 2\Packages\Theme - WebExPert```
